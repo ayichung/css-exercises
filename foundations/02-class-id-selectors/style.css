@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 18px;
+}
+
+p {
+    background-color: lightpink;
+}
+
+#one-id {
+    font-size: 36px;
+    color: blue;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#another-id {
+    background-color: lightgreen;
+    font-weight: bold;
+}
